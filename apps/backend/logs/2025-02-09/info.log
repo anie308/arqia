@@ -1,0 +1,6 @@
+[32minfo[39m: 09-Feb-2025 01:49:49:4949: [32m	MongoDB Connect: mongodb://localhost:27017/[39m
+[32minfo[39m: 09-Feb-2025 01:49:50:4950: [32m	Architecture Infrastructure[39m
+[32minfo[39m: 09-Feb-2025 01:49:50:4950: [32m	Server initiated on port 5000[39m
+[32minfo[39m: 09-Feb-2025 01:49:50:4950: [32m	Database connected[39m
+[32minfo[39m: 09-Feb-2025 01:49:50:4950: [32m	Server now listening on port 5000[39m
+[32minfo[39m: 09-Feb-2025 01:49:50:4950: [32m	See API Documentation at ###########################[39m

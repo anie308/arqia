@@ -1,5 +1,5 @@
 {
-  "name": "architecture-social",
+  "name": "arqia",
   "private": true,
   "scripts": {
     "build": "turbo build",
