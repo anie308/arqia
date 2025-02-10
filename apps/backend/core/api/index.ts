@@ -4,6 +4,7 @@ const apiVersion = "/api/v1"
 
 import coreRouter from "../routes/index";
 import accountManagementRouter from "../routes/user/account";
+import postRouter from "../routes/post";
 // const communityRouter = require("../routes/community")
 // const communityMembershipRouter = require("../routes/community/membership")
 // const lessonRouter = require("../routes/lesson")
@@ -20,6 +21,7 @@ import notificationRouter from "../routes/notification";
 
 //other routes go here
 app.use(`${apiVersion}/account`, accountManagementRouter)
+app.use(`${apiVersion}/post`, postRouter)
 // app.use(`${apiVersion}/community/m`, communityMembershipRouter)
 // app.use(`${apiVersion}/community`, communityRouter)
 // app.use(`${apiVersion}/lesson`, lessonRouter)
